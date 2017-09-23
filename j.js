@@ -18,3 +18,4 @@ const color = 'red';
 const car = { branch, color };
 // const car = { branch: branch, color: color };
 console.log(car);
+// try catch || bat dong bo
